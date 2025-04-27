@@ -25,9 +25,13 @@ Step 7 : stop.
 ## Program :
 
 #include <stdio.h>
+
 #include <conio.h>
+
 #include <math.h>
+
 #include <graphics.h>
+
 main()
 {
     int gd=DETECT,gm;
